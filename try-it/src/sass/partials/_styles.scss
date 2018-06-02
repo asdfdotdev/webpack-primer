@@ -1,0 +1,24 @@
+body {
+	background-color: rgba($silver, 0.1);
+
+	h1 {
+		text-shadow: 2px 2px 5px $white;
+	}
+}
+
+#one_div {
+	background-color: rgba($yellow, 0.3);
+}
+
+#two_div {
+	background-color: rgba($blue, 0.3);
+}
+
+
+#red_div {
+	background-color: rgba($teal, 0.3);
+}
+
+#blue_div {
+	background-color: rgba($green, 0.3);
+}
